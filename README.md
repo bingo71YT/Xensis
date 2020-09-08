@@ -1,4 +1,6 @@
 # Xensis
+[![Run on Repl.it](https://repl.it/badge/github/KaosDrip/Xensis)](https://repl.it/github/KaosDrip/Xensis)
+
 
 An expansive Fortnite lobby bot with a handful of features.
 
